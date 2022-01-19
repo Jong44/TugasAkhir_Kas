@@ -1,0 +1,27 @@
+.text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.text2 {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    background-color: grey;
+}
+
+.display-4 {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    top: 30px;
+    right: 8px;
+    opacity: 0.4;
+    font-size: 75px;
+}
